@@ -239,3 +239,9 @@ a:hover{
     
 }
 
+
+.social svg:hover
+{
+  filter: invert(50%);
+  cursor: pointer;
+}
